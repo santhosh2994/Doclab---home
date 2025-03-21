@@ -29,13 +29,13 @@ To run **Doclab** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/doclab.git
+sudo (https://github.com/santhosh2994/Doclab---home.git)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/doclab.git
+git clone https://github.com/santhosh2994/Doclab---home.git
 ```
 
 ### Contact
